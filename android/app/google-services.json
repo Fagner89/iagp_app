@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "960850992242",
+    "project_id": "iagp-app",
+    "storage_bucket": "iagp-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960850992242:android:b351f11002a103069436eb",
+        "android_client_info": {
+          "package_name": "br.com.iagp.app.iagp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960850992242-lermb0mf1ah91ovbsapm3supoci893a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.iagp.app.iagp_app",
+            "certificate_hash": "08c93d0ffdaf419f6603f4494fffb1231bf50748"
+          }
+        },
+        {
+          "client_id": "960850992242-ri784gmbh7f5c1cipaf8fji9njquj0kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVidbFeE8FeqZVrd1E8wbBPaV-Pb8HOJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960850992242-ri784gmbh7f5c1cipaf8fji9njquj0kj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960850992242-vh1euc88o2nitpagkhc3at9dhbjm24kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.iagp.app.iagpApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

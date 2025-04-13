@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "iagp-app",
+          "appId": "1:960850992242:android:b351f11002a103069436eb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "iagp-app",
+          "configurations": {
+            "android": "1:960850992242:android:b351f11002a103069436eb",
+            "ios": "1:960850992242:ios:2bf2483eb7df25cf9436eb",
+            "macos": "1:960850992242:ios:2bf2483eb7df25cf9436eb",
+            "web": "1:960850992242:web:aed798bfbc1270e39436eb",
+            "windows": "1:960850992242:web:3d929227c5f7784a9436eb"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "emulators": {
+    "singleProjectMode": true,
+    "firestore": {
+      "port": 8080
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
